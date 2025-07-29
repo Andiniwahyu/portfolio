@@ -39,6 +39,3 @@ This personal data project analyzes Standard Operating Procedure (SOP) adherence
 ![Retail SOP Analysis Preview](portfolio_images/RetailSOP1.png)
 ![Retail SOP Analysis Preview](portfolio_images/RetailSOP2.png)
 
-
----
-
