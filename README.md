@@ -6,17 +6,20 @@ This comprehensive project combines an interactive dashboard and a deep-dive ana
 ![Data Storytelling Preview](portfolio_images/DataStorytelling1.png)
 ![Data Storytelling Preview](portfolio_images/DataStorytelling2.png)
 
+
 ---
 
 ## [Project 2: SQL Restaurant Exploratory Data Analysis](https://github.com/Andiniwahyu/Restaurant-SQL-Data-Exploration-Project)
 
 This project involves data exploration using PostgreSQL to analyze customer behavior and menu performance from restaurant order data. The objective is to uncover ordering trends and menu profitability, helping to understand customer preferences and optimize menu offerings.
 
+
 ---
 
 ## [Project 3: SQL Data Analytics](https://github.com/Andiniwahyu/SQL-data-analytics)
 
 This is a complete SQL project covering data exploration, data analytics, and reporting. It explores key performance metrics, trends over time, customer segmentation, and cumulative sales analysis, demonstrating comprehensive SQL skills for strategic decision-making.
+
 
 ---
 
@@ -26,6 +29,7 @@ This project features an interactive Sales Performance Dashboard built with Tabl
 
 ![Sales Dashboard Preview](portfolio_images/SalesDashboard.png)
 
+
 ---
 
 ## [Project 5: Retail SOP Performance Analysis](https://github.com/Andiniwahyu/SOP-performance)
@@ -34,6 +38,7 @@ This personal data project analyzes Standard Operating Procedure (SOP) adherence
 
 ![Retail SOP Analysis Preview](portfolio_images/RetailSOP1.png)
 ![Retail SOP Analysis Preview](portfolio_images/RetailSOP2.png)
+
 
 ---
 
