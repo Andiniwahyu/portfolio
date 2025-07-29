@@ -3,6 +3,13 @@ layout: default
 title: Home
 ---
 
+Welcome to my data analytics portfolio!
+Explore projects showcasing my data analysis, data visualization, and data storytelling,
+focused on solving business questions and delivering actionable insights.
+
+---
+
+
 ## [Project 1: AWS SaaS Profitability Analysis: Dashboard & Deep Dive](https://github.com/Andiniwahyu/SaaS-AWS-Profitability-Analysis)
 
 This comprehensive project combines an interactive dashboard and a deep-dive analysis of SaaS profitability on AWS. It focuses on optimizing product and customer strategies by analyzing sales, profit, and quantity metrics, identifying critical profit drops, and providing actionable recommendations. The goal is to turn raw data into strategic business insights.
