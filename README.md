@@ -1,4 +1,4 @@
-## [Project 1: Power BI Dashboard - HealthTech Sales Performance](https://github.com/Andiniwahyu/SaaS-AWS-Profitability-Analysis)
+## [Project 1: Power BI Dashboard - HealthTech Sales Performance](https://github.com/Andiniwahyu/PowerBI-HealthTech-Dashboard)
 
 Developed an interactive HealthTech Sales Performance Dashboard in Power BI to monitor sales performance, user growth, revenue trends, churn, and product consultant performance. Integrated automated data updates from Excel Online and designed interactive visualizations with KPI cards, trend analysis, and dynamic filters to support data-driven business decisions.
 
